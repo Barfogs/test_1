@@ -1,7 +1,7 @@
 {
     "prerequisites": {
         "min_app_version": {
-            "value": "0.0.1",
+            "value": "3.0.1",
             "message": {
                 "ru": "Версия приложения критически устарела и может работать некорректно. Пожалуйста, обновите приложение.",
                 "en": "The application version is critically outdated and may not work correctly. Please update the app."
